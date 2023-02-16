@@ -1,0 +1,12 @@
+.container{
+    padding: 10px;
+}
+#list{
+    padding: 30px;
+}
+.box{
+    display: flex;
+}
+.check{
+    margin-right: 100px;
+}
